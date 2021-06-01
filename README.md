@@ -3,6 +3,7 @@
 - Machine Learning from the basic, especially Computer Vision
 - Pytorch 3.x
 - English..!
+- Algorithm from the basic
 
 # 👀Contact
 - Email : sujihan0@gmail.com
