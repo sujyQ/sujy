@@ -5,9 +5,6 @@
 - English..!
 - Algorithm from the basic
 
-# 👀Contact
-- Email : sujihan0@gmail.com
-
 # 🍀Education
 - B.S. : Ajou University, FEB 2021, Department of Electrical and Computer Engineering
 - Korea Digital Media High School, FEB 2017, Department of Hacking Defense
