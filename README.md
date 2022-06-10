@@ -1,7 +1,7 @@
 
 # 👩‍💻Learning
 - Machine Learning from the basic, especially Computer Vision
-- Pytorch 3.x
+- Python3
 - English..!
 - Algorithm from the basic
 
